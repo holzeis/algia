@@ -1,4 +1,4 @@
-module github.com/mattn/algia
+module github.com/holzeis/algia
 
 go 1.21
 
